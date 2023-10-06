@@ -2,11 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif"/>
 
-- 🔭 I’m currently working on **portfolioproject**
+- 🔭 I’m currently working on **my portfolio project**
 
 - 🌱 I’m currently learning **Angular**
 
-- 👨‍💻 All of my projects are available at [work in progress](work in progress)
+- 👨‍💻 All of my projects are available at github
 
 - 📝 I regularly write articles on [Dev-Community](Dev-Community)
 
